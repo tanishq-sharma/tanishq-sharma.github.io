@@ -6,7 +6,7 @@
     "employer":"",
     "jobDescription":"Bachelors in computer Science",
     "image":"profile_pic.jpg",
-    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final year of my bachelors degree . Friends call me T , T is an alpha man with really good coding skills who can work all solo or work in a team .",
+    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final year of my bachelors degree . Friends call me T , T is an alpha man with really good coding skills who can work all solo or in a team .",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "tanishqsharma0798@gmail.com",
     "phone": "(+91) 999-005-7376",
@@ -49,7 +49,7 @@
         "school":"MAIT, Delhi",
         "degree":"Bachelors in Computer Science",
         "graduated":"Expected April 2021",
-        "description":" Here I am doing my Bachelors of Computer Science and achieving thorough education in the underlying theory, concepts, and science behind more complex programming like Data Structures, Algorithms, Operating Systems, DBMS, Object Oriented Programming ."
+        "description":" Here I am doing my Bachelors in Computer Science and achieving thorough education in the underlying theory, concepts, and implementaion of various skills like Data Structures, Algorithms, Operating Systems, DBMS, Object Oriented Programming ."
       }
     ],
     "work":[
