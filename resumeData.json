@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name":"Tanishq Sharma",
+    "occupation":"Fullstack Software Engineer",
+    "description":"Only 2 semesters away from completing my",
+    "employer":"",
+    "jobDescription":"Bachelors in computer Science",
+    "image":"profile_pic.jpg",
+    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final year of my bachelors degree . Friends call me T , T is an alpha man with really good coding skills who can work all solo or work in a team .",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "tanishqsharma0798@gmail.com",
+    "phone": "(+91) 999-005-7376",
+    "address":{
+      "street":"wz 496",
+      "city":"New Delhi",
+      "state":"Delhi",
+      "zip": "110034"
+    },
+    "website": "http://www.tanishqsharma.co",
+    "resumedownload":"https://drive.google.com/file/d/1ye8EXwzDXlzWnk8y3ib-5I2m5R0iRlod/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/alphawing07",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tanishqs/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/_tan_ishq",
+        "className":"fa fa-instagram"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/tanishq-sharma",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"MAIT, Delhi",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"Expected April 2021",
+        "description":" Here I am doing my Bachelors of Computer Science and achieving thorough education in the underlying theory, concepts, and science behind more complex programming like Data Structures, Algorithms, Operating Systems, DBMS, Object Oriented Programming ."
+      }
+    ],
+    "work":[
+      {
+        "company":"Hire Me! "
+      }
+    ],
+    "skills":[
+
+      {
+        "name":"Java",
+        "description":"I started using in 2 years ago. It is the second language I am familiar with in terms of data-structure and algorithm programming.",
+        "image":"java.jpg"
+      },
+      {
+        "name":"Golang",
+        "description":"I am relativey new to Golang , my sole experience in it is through a web-app project",
+        "image":"golang.png"
+      },
+      {
+        "name":"Javascript",
+        "description":"Experience with developing few projects in JS has made me pretty comfortable with it .",
+        "image":"js.png"
+      },
+      {
+        "name":"C++",
+        "description":"C++ was my first programming language that I started using in 7 years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"c++.png"
+      },
+      {
+        "name":"Postgres",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases",
+        "image":"postgres.png"
+      },
+      {
+        "name":"MongoDB",
+        "description":"For many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image":"mongo.jpg"
+      },
+
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React.I have built few ReactJS based frontends for my webapps and even this website",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Node JS",
+        "description":"Node JS is one my server-side scripting language of choice. The bulk of my experience with it has been in through online courses and various projects",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Python",
+        "description":" I learnt python when i developed Machine Learning models.I often python to automate various processes ",
+        "image":"python.png"
+      },
+      {
+        "name":"Machine Learning",
+        "description":"Idea of Making machines smart enough to work like humans has always attracted me . My knowledge in this feild comes from various meetups ,MOOC courses , research conferences and self initiated projects ",
+        "image":"ml.png"
+
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient.",
+        "image":"heroku.jpg"
+      },
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Shorten-ly",
+        "category":"fullstack URL shortening service",
+        "image":"URL-shortner.png",
+        "url":"https://shorten-ly.herokuapp.com"
+      },
+      {
+        "title":"Cache Routine",
+        "category":"Fullstack LRU caching routine ",
+        "image":"Cache-routine.png",
+        "url":"http://cache-routine.herokuapp.com"
+      },
+      {
+        "title":"Sentiment Analysis of Statement",
+        "category":"A ML classifier to classify polarity of statement as positive or negetive",
+        "image":"ml.jpg",
+        "url":"https://github.com/tanishq-sharma/Sentiment_Analysis_python-"
+      },
+      {
+        "title":"Audio Fractal Visualizer",
+        "category":"Audio visialization using fractals",
+        "image":"fractal.png",
+        "url":"https://github.com/tanishq-sharma/"
+      },
+      {
+        "title":"Lane detection",
+        "category":"detect lanes on road",
+        "image":"lan-detection.jpg",
+        "url":"https://github.com/tanishq-sharma/Lane-Detection"
+      }
+
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"We would love the opportunity to work with Tanishq on multiple occasions , it will be a pleasure. He is driven and motivated with a consistently positive attitude. Tanishq excels at communicating with others and is always willing to work hard until he solves the problem at hand. But we have not yet hired him ! :( and we still regret don't be like us. ",
+        "user":"Google, Apple, Microsoft, Facebook, De-Shaw etc......"
+      }
+    ]
+  }
+}
