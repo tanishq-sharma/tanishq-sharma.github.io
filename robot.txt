@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tanishqsharma.dev/sitemap.xml
