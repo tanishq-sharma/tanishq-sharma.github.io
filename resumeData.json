@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Tanishq Sharma",
-    "occupation":"Fullstack Software Engineer",
+    "occupation":"Fullstack Software Developer ",
     "description":" 2 semesters away from completing my",
     "employer":"",
     "jobDescription":"Bachelors in computer Science",
     "image":"profile_pic.jpg",
-    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final year of my bachelors degree . Friends call me T , T is an alpha man with really good coding skills who can work all solo or in a team .",
+    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final year of my bachelors degree . Friends call me T , T is a man with really good coding skills who can work all solo or in a team .",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "tanishqsharma0798@gmail.com",
     "phone": "(+91) 999-005-7376",
@@ -46,7 +46,7 @@
     "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
-        "school":"MAIT, Delhi",
+        "school":"Maharaja Agrasen Institute of technology , Delhi",
         "degree":"Bachelors in Computer Science",
         "graduated":"Expected April 2021",
         "description":" Here I am doing my Bachelors in Computer Science and achieving thorough education in the underlying theory, concepts, and implementaion of various skills like Data Structures, Algorithms, Operating Systems, DBMS, Object Oriented Programming ."
@@ -61,7 +61,7 @@
 
       {
         "name":"Java",
-        "description":"I started using in 2 years ago. It is the second language I am familiar with in terms of data-structure and algorithm programming.",
+        "description":"I started using java 2 years ago. It is the second language I am familiar with in terms of data-structure and algorithm programming.",
         "image":"java.jpg"
       },
       {
@@ -76,7 +76,7 @@
       },
       {
         "name":"C++",
-        "description":"C++ was my first programming language that I started using in 7 years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "description":"C++ was my first programming language that I started using 7 years ago. It is the language I am most familiar with in terms of data-structure and algorithm programming.",
         "image":"c++.png"
       },
       {
@@ -102,7 +102,7 @@
       },
       {
         "name":"Python",
-        "description":" I learnt python when i developed Machine Learning models.I often python to automate various processes ",
+        "description":" I learnt python when i developed Machine Learning models.I often use python to automate various processes ",
         "image":"python.png"
       },
       {
