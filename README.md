@@ -1,7 +1,7 @@
 # tanishq-sharma.github.io
 
 ## v1 of my personal website
-visit => [Github pages](http://tanishq-sharma.github.io)
+visit => [tanishqsharma.dev](https://tanishq-sharma.github.io)
 
 ## Tech stack used
 * React 
