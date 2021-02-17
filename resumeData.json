@@ -2,11 +2,11 @@
   "main": {
     "name":"Tanishq Sharma",
     "occupation":"Fullstack Software Developer ",
-    "description":" 2 semesters away from completing my",
+    "description":" Graduating in May-June 2021",
     "employer":"",
     "jobDescription":"Bachelors in computer Science",
     "image":"profile_pic.jpg",
-    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final year of my bachelors degree . Friends call me T , T is a man with really good coding skills who can work all solo or in a team .",
+    "bio":"I am a Fullstack Developer and Machine learning enthusiast , currently in final semester of my bachelors degree . I am man with really good competitive and development skills who can work all solo or in a team .",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "tanishqsharma0798@gmail.com",
     "phone": "(+91) 999-005-7376",
@@ -161,7 +161,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"We would love the opportunity to work with Tanishq on multiple occasions , it will be a pleasure. He is driven and motivated with a consistently positive attitude. Tanishq excels at communicating with others and is always willing to work hard until he solves the problem at hand. We regret! not hiring him :( .Don't be like us. ",
+        "text":" :( ",
         "user":"Google, Apple, Microsoft, Facebook, De-Shaw etc......"
       }
     ]
